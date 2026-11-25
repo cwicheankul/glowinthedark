@@ -1,0 +1,115 @@
+{
+  "format": "bento-project",
+  "version": 1,
+  "saved": "2026-10-28T08:46:28.066Z",
+  "board": "KIT_PSE84_EVAL_EPC2",
+  "assets": [
+    {
+      "name": "glwidark_blood",
+      "w": 128,
+      "h": 32,
+      "frames": 4,
+      "bg": 4227,
+      "origin": "upload",
+      "credit": "",
+      "updated": 1792940479342
+    },
+    {
+      "name": "glwindark_monster",
+      "w": 32,
+      "h": 32,
+      "frames": 4,
+      "bg": 4227,
+      "origin": "draw",
+      "credit": "BENTO rpg/rp_skeleton, 2 frames added",
+      "updated": 1792940479345
+    },
+    {
+      "name": "glwindark_princess",
+      "w": 32,
+      "h": 32,
+      "frames": 1,
+      "bg": 4227,
+      "origin": "upload",
+      "credit": "",
+      "updated": 1792940479626
+    },
+    {
+      "name": "glwindark_rt_key",
+      "w": 16,
+      "h": 16,
+      "frames": 1,
+      "bg": 4227,
+      "origin": "draw",
+      "credit": "BENTO starter pack",
+      "updated": 1792940479870
+    },
+    {
+      "name": "glwindarkai",
+      "w": 32,
+      "h": 32,
+      "frames": 4,
+      "bg": 4227,
+      "origin": "upload",
+      "credit": "",
+      "updated": 1792940480126
+    },
+    {
+      "name": "hud_digits",
+      "w": 16,
+      "h": 24,
+      "frames": 10,
+      "bg": 2180,
+      "origin": "draw",
+      "credit": "BENTO starter pack",
+      "updated": 1792940480316
+    },
+    {
+      "name": "hud_font",
+      "w": 16,
+      "h": 16,
+      "frames": 26,
+      "bg": 2180,
+      "origin": "draw",
+      "credit": "BENTO starter pack",
+      "updated": 1792940480477
+    },
+    {
+      "name": "rt_door",
+      "w": 32,
+      "h": 32,
+      "frames": 2,
+      "bg": 6372,
+      "origin": "draw",
+      "credit": "BENTO starter pack",
+      "updated": 1792940480663
+    },
+    {
+      "name": "s02p16_poof",
+      "w": 32,
+      "h": 32,
+      "frames": 4,
+      "bg": 0,
+      "origin": "draw",
+      "credit": "BENTO rpg/rp_poof",
+      "updated": 1792940480819
+    },
+    {
+      "name": "s02p16_slash",
+      "w": 48,
+      "h": 48,
+      "frames": 3,
+      "bg": 0,
+      "origin": "draw",
+      "credit": "BENTO new drawing",
+      "updated": 1792940480964
+    }
+  ],
+  "photos": [
+    {
+      "name": "glwindark_bg",
+      "credit": "ai-generate",
+      "origin": "convert"
+    }
+  ]
+}
